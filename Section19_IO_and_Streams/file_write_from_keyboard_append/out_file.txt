@@ -1,0 +1,2 @@
+My first line in first c++ automatic made fileAdditional line writing to fileEventualy additional string write to file
+This time certainly new line will added to the file

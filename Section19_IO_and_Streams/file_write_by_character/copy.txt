@@ -1,0 +1,24 @@
+int main()
+{
+    std::ifstream inFile {"origin.txt"};
+    std::ofstream outFile {"copy.txt"};
+
+    if (!inFile)
+    {
+        std::cerr << "Input file not opened" << std::endl;
+        return 1;
+    }
+    if (!outFile)
+    {
+        std::cerr << "Output file not opened" << std::endl;
+        return 1;
+    }
+    char c {};
+    while (inFile.get(c))
+        outFile.put(c);
+    inFile.close();
+    outFile.close();
+
+
+    return 0;
+}

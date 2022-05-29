@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Section18_Exceptions" Database="" Version="10000">
+  <Project Name="Exceptions_EasyExample" Path="Exceptions_EasyExample/Exceptions_EasyExample.project" Active="No"/>
+  <Project Name="Exceptions_InFunctionException" Path="Exceptions_InFunctionException/Exceptions_InFunctionException.project" Active="No"/>
+  <Project Name="Exceptions_MultipleExceptions" Path="Exceptions_MultipleExceptions/Exceptions_MultipleExceptions.project" Active="No"/>
+  <Project Name="Exceptions_ExceptionsStackUnwinding" Path="Exceptions_ExceptionsStackUnwinding/Exceptions_ExceptionsStackUnwinding.project" Active="No"/>
+  <Project Name="Exceptions_ExceptionClasses" Path="Exceptions_ExceptionClasses/Exceptions_ExceptionClasses.project" Active="No"/>
+  <Project Name="Exceptions_ConstructorExceptions" Path="Exceptions_ConstructorExceptions/Exceptions_ConstructorExceptions.project" Active="No"/>
+  <Project Name="Exceptions_StdExceptions" Path="Exceptions_StdExceptions/Exceptions_StdExceptions.project" Active="No"/>
+  <Project Name="Exceptions_Challenge" Path="Exceptions_Challenge/Exceptions_Challenge.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="Exceptions_EasyExample" ConfigName="Debug"/>
+      <Project Name="Exceptions_InFunctionException" ConfigName="Debug"/>
+      <Project Name="Exceptions_MultipleExceptions" ConfigName="Debug"/>
+      <Project Name="Exceptions_ExceptionsStackUnwinding" ConfigName="Debug"/>
+      <Project Name="Exceptions_ExceptionClasses" ConfigName="Debug"/>
+      <Project Name="Exceptions_ConstructorExceptions" ConfigName="Debug"/>
+      <Project Name="Exceptions_StdExceptions" ConfigName="Debug"/>
+      <Project Name="Exceptions_Challenge" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="Exceptions_EasyExample" ConfigName="Release"/>
+      <Project Name="Exceptions_InFunctionException" ConfigName="Release"/>
+      <Project Name="Exceptions_MultipleExceptions" ConfigName="Release"/>
+      <Project Name="Exceptions_ExceptionsStackUnwinding" ConfigName="Release"/>
+      <Project Name="Exceptions_ExceptionClasses" ConfigName="Release"/>
+      <Project Name="Exceptions_ConstructorExceptions" ConfigName="Release"/>
+      <Project Name="Exceptions_StdExceptions" ConfigName="Release"/>
+      <Project Name="Exceptions_Challenge" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
